@@ -74,6 +74,7 @@ Can only be accessed from *mats x* command.
 
 ## III. Error Reply
 If something happen to the features, bot will send you message like this.
+
 ![](https://image.prntscr.com/image/KKHdRa-xSuCLOqjXzcD6qg.png)
 
 This is mostly caused by
