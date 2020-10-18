@@ -97,14 +97,12 @@ you will see report button and the features will be disabled temporarily and the
 1. ~Group / Room support.~ added.
 
 ## V. Bot Specification and Source Code
-Bot is using NodeJS for the system and simple JSON data application for the database.
+Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
+
+Bot is using NodeJS for the system and simple JSON data application for the database and currently using free hosting service from [Glitch](https://glitch.com).
 
 ![](https://image.prntscr.com/image/JG9UOTz1RaK0F1tESk2uag.png)
 
 Database editing for gacha is using simple front end application.
 
 ![](https://image.prntscr.com/image/--jGuyFtRmeeNrPSsE26vg.png)
-
-Currently using free hosting service from [Glitch](https://glitch.com).
-
-Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
