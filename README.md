@@ -81,7 +81,7 @@ If something happen to the features, bot will send you message like this.
 ![](https://image.prntscr.com/image/KKHdRa-xSuCLOqjXzcD6qg.png)
 
 This is mostly caused by
-1. Bot is processing the command more than 30 seconds
+1. Bot process the command more than 30 seconds
 2. Outdated database
 
 ### First Issue
