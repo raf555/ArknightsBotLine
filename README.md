@@ -96,7 +96,15 @@ you will see report button and the features will be disabled temporarily and the
 ## IV. Features that are probably added in the future
 1. ~Group / Room support.~ added.
 
-## V. Source Code
-I am using NodeJS and
+## V. Bot Specification and Source Code
+Bot is using NodeJS for the system and simple JSON data application for the database.
+
+![](https://image.prntscr.com/image/JG9UOTz1RaK0F1tESk2uag.png)
+
+Database editing for gacha is using simple front end application.
+
+![](https://image.prntscr.com/image/--jGuyFtRmeeNrPSsE26vg.png)
+
+Currently using free hosting service from [Glitch](https://glitch.com).
 
 Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
