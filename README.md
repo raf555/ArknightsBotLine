@@ -97,4 +97,6 @@ you will see report button and the features will be disabled temporarily and the
 1. ~Group / Room support.~ added.
 
 ## V. Source Code
+I am using NodeJS and
+
 Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
