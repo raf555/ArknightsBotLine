@@ -95,4 +95,4 @@ you will see report button and the features will be disabled temporarily and the
 ## V. Source Code
 Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
 
-*This is not the real repository for the bot, only for cosmetics for my github account.*
+*This is not the real repository for the bot, only for cosmetics for my github account. The real repository is set to private atm.*
