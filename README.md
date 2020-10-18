@@ -69,6 +69,7 @@ stats x
 Can only be accessed from *mats x* command.
 
 *click the materials*
+
 ![](https://im.ezgif.com/tmp/ezgif-1-6f6461e49e33.gif)
 
 
