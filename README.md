@@ -59,6 +59,8 @@ info x
 ![](https://cdn.glitch.com/2b183aba-b05a-49d5-a693-0660debb54c6%2F832319.jpg?v=1602991181436)
 ### 3.1. Operators Material Information
 x = Operator's name
+
+*The material background is kinda weird on LINE Desktop, please refer to Mobile version for the 'real' design*
 ```sh
 mats x
 ```
@@ -73,6 +75,8 @@ stats x
 Can only be accessed from *mats x* command.
 
 *click the materials*
+
+*The material background is kinda weird on LINE Desktop, please refer to Mobile version for the 'real' design*
 
 ![](https://cdn.glitch.com/2b183aba-b05a-49d5-a693-0660debb54c6%2Fmats.gif?v=1603075298547)
 
