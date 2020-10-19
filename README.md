@@ -11,6 +11,8 @@ Bot only works on LINE Platform, both personal chat or group/room chat.
 ## II. The Bot
 To add the bot [@563ycerl](https://line.me/R/ti/p/@563ycerl)
 
+*You might notice some Flex Message designs are a bit off between LINE Desktop and Mobile, please refer to Mobile version for the 'real' designs*
+
 # Bot Usage
 Send the command (marked one) to the bot
 
@@ -72,7 +74,7 @@ Can only be accessed from *mats x* command.
 
 *click the materials*
 
-![](https://im.ezgif.com/tmp/ezgif-1-6f6461e49e33.gif)
+![](https://cdn.glitch.com/2b183aba-b05a-49d5-a693-0660debb54c6%2Fmats.gif?v=1603075298547)
 
 
 ## III. Error Reply
