@@ -27,7 +27,7 @@ recruitment
 ### 2. Gacha Simulator
 Both event and standard banners follow the current banners in EN server.
 ### 2.1. To select banner:
-*Selected banner's button is gray, unselected banner's button is green*
+*Selected banner's button color is gray, unselected banner's button color is green*
 ```sh
 gacha select
 ```
