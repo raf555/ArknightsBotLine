@@ -112,4 +112,4 @@ Bot is using NodeJS for the system and simple JSON data application for the data
 
 Database editing for gacha is using simple front end application.
 
-![](https://image.prntscr.com/image/--jGuyFtRmeeNrPSsE26vg.png)
+![](https://image.prntscr.com/image/p1maqP_ZR9_BGDphqE-s9g.png)
