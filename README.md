@@ -1,5 +1,7 @@
 # Arknights Bot for LINE
-(last update 18-10-2020)
+(last update 20-10-2020)
+
+[Website](https://arknights-bot-line.glitch.me/)
 
 *This is not the real repository for the bot, only for cosmetics for my github account. The real repository is set to private atm.*
 
@@ -108,7 +110,7 @@ Because of scrappy and not structured code atm, i have no plan to release the co
 
 Bot is using NodeJS for the system and simple JSON data application for the database and currently using free hosting service from [Glitch](https://glitch.com).
 
-![](https://image.prntscr.com/image/JG9UOTz1RaK0F1tESk2uag.png)
+![](https://image.prntscr.com/image/OesNxW9OTNuBKnV-jlTvbw.png)
 
 Database editing for gacha is using simple front end application.
 
