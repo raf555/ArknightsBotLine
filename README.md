@@ -105,14 +105,3 @@ you will see report button and the features will be disabled temporarily and the
 ## IV. Features that are probably added in the future
 1. ~Group / Room support.~ added.
 2. Auto Update Event and Standard Banner. -WIP-
-
-## V. Bot Specification and Source Code
-Because of scrappy and not structured code atm, i have no plan to release the code, it is embarassing, lol.
-
-Bot is using NodeJS for the system and simple JSON data application for the database and currently using free hosting service from [Glitch](https://glitch.com).
-
-![](https://image.prntscr.com/image/OesNxW9OTNuBKnV-jlTvbw.png)
-
-Database editing for gacha is using simple front end application.
-
-![](https://image.prntscr.com/image/p1maqP_ZR9_BGDphqE-s9g.png)
