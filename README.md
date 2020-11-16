@@ -94,15 +94,20 @@ This is mostly caused by
 2. Outdated database
 3. Web Scraping error
 
+## What to do if that happens?
+
 ### First Issue
 For the first cause, it is mostly happened when bot is waking up, you may notice this by telling how long does the bot reply.
 LINE limits the reply time for less than 30 seconds, so this happens. For this issue, when you resend the message, it should be work just fine after that.
 
-### Second and Third Issue
+### Second Issue
 For the second cause, it is simply caused by outdated database (such as mats and stats features), it will give you the same message, 
 but when you resend the message, it will give you the same message again, i anticipated this by adding report system, so when error happens for several times,
 you will see report button and the features will be disabled temporarily and the report will be sent to me.
 
+### Third Issue
+Basically same with the second issue but this was caused by web scraping error.
+
 ## IV. Features that are probably added in the future
 1. ~Group / Room support.~ added.
-2. Auto Update Event and Standard Banner. -WIP-
+2. Auto Update Event and Standard Banner. -WIP- -Probably won't be finished by anytime soon bcs it's kinda hard to implement with the current host-
