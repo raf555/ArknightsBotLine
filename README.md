@@ -92,12 +92,13 @@ If something happen to the features, bot will send you message like this.
 This is mostly caused by
 1. Bot process the command more than 30 seconds
 2. Outdated database
+3. Web Scraping error
 
 ### First Issue
 For the first cause, it is mostly happened when bot is waking up, you may notice this by telling how long does the bot reply.
 LINE limits the reply time for less than 30 seconds, so this happens. For this issue, when you resend the message, it should be work just fine after that.
 
-### Second Issue
+### Second and Third Issue
 For the second cause, it is simply caused by outdated database (such as mats and stats features), it will give you the same message, 
 but when you resend the message, it will give you the same message again, i anticipated this by adding report system, so when error happens for several times,
 you will see report button and the features will be disabled temporarily and the report will be sent to me.
